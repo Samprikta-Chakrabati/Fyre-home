@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: deeppink;
+    background-color: grey;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h3 {
 section {
     font-size: 25px;
     font-family: cursive;
-    background-color: lightpink;
+    background-color: lightgreen;
     color: black;
 }
 
